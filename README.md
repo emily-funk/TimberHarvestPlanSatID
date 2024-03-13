@@ -1,1 +1,1 @@
-I am creating a CNN to identify timberharvest plans based on satelite images for CalFire
+I am creating a program to identify timber harvest plans based on satellite images for CalFire
